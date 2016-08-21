@@ -1,4 +1,4 @@
-This CodeBook summarizes the content of data file tidy_data_set.txt
+This CodeBook summarizes the content of data file tidy_dataset.txt
 
 Identifiers
 ------------------------
