@@ -80,6 +80,6 @@ df_tidy_data_2 <- df_tidy_data_2[,c(2,1,3:68)]
 rownames(df_tidy_data_2) <- 1:nrow(df_tidy_data_2)
 
 # Create output file from tidy data
-write.table(df_tidy_data_2, file="tidy_dataset.txt")
+write.table(df_tidy_data_2, file="tidy_dataset.txt", row.names=FALSE)
 
 
